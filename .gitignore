@@ -14,6 +14,7 @@ wp-admin/*
 wp-*.php
 *.php
 *.sublime*
+.*/
 /.htaccess
 /license.txt
 /readme.html
